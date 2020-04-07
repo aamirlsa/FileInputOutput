@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
         }
         editText.setText(s);
 
-            Toast.makeText(this, "file loaded successfully", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "file loaded successfully by aamir malik", Toast.LENGTH_SHORT).show();
 
         }
         catch (Exception e){
